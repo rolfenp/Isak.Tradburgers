@@ -307,7 +307,8 @@ div img {
         font-size: 100%;
     }
     .hero-text {
-        left: 15%;
+        width: 100%;
+        align-items: center;
      }
     .box {
     margin: 2rem;
